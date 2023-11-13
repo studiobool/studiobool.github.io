@@ -35,7 +35,7 @@ li a {
   color: white;
   text-align: center;
   font-size:1.7vw;
-  padding: 1.5vw 1.35vw;
+  padding: 1.5vw 1.4vw;
   text-decoration: none;
 }
 
@@ -46,5 +46,5 @@ li a:hover {
 footer {
   font-size:1.35vw;
   text-align: center;
-  padding: 1.5vw 1.35vw;
+  padding: 1.5vw 1.4vw;
   color: grey;
