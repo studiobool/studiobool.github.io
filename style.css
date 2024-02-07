@@ -15,13 +15,8 @@ ul {
   top: 0;
 }
 
-.logo-row {
-    width: 7vw;
-    margin: 0 auto;
-}
-
 .logo {
-    width: 2%;
+    width: 1.85%;
     padding: 1.2vw 1.1vw;
     text-align: center;
     float: right;
