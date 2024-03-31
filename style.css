@@ -15,6 +15,10 @@ ul {
   top: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 .logo {
     width: 1.85%;
     padding: 1.2vw 1.1vw;
