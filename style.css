@@ -61,3 +61,15 @@ footer {
   text-align: center;
   padding: 1.3vw 1.15vw;
   color: grey;
+}
+
+.content {
+  overflow: hidden;
+  width: 24vw;
+  height: 15vw;
+  position: relative;
+}
+
+.section {
+  padding: 1vw 1.75vw;
+}
