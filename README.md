@@ -1,2 +1,2 @@
 # studiobool.github.io
-Website test
+Website for studiobool
